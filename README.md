@@ -4,7 +4,7 @@ Ce dépôt contient l'export complet d’un site WordPress réalisé en local da
 
 ## Détails techniques
 
-- **Login WordPress** : attar
+- **Login WordPress** : 
 - **Mot de passe** : 267776
 - **Nom du site** : wp-01-267776
 - **Dossier WordPress** : wp-01-267776
